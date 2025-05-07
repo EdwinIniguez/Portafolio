@@ -6,10 +6,19 @@
 - Me gusta mucho juagr videojuegos y hacer ejercicio.
 - 🌱 Actualmente estoy aprendiendo sobre Machine Learning.
 
-## My proyects
+## Algunos Proyectos
 1. [Warehouse Security Sistem (2024)](https://github.com/EdwinIniguez/Warehouse-Security-Simulation) ~ Computer Vision with YoloV8.
-3. b
-4. c
+   - Simulated the robbery of a warehouse and the security actions.
+   - Simulated in Unity. Uses YOLOv8 to detect suspicious activity.
+   - Communication between Unity and python with Flask web server.
+2. [Applicación Banco de Alimentos (2024)](https://github.com/LuzPaty02/BancoAlimentos/tree/ewin)
+   - Applicación móvil con Expo y Firebase.
+   - Encriptación AES 256.
+   - Conección con Servidor usando SSL.
+   - Prácticas de ciberseguradad.
+3. [Web Chatbot wit Face Recognition (2020)](https://github.com/EdwinIniguez/WebPrograms)
+   - Video streaming through Flask web server.
+   - OpenCV for Facial Recognition.
 
 ## Skills
 ### Lenguajes de Programcación
@@ -39,4 +48,11 @@
         <td>2 Months</td>
     </tr>
 </table>
-## 📫 How to Reach Me
+
+### Idiomas
+- Español (Lengua Materna)
+- English (C1)
+- Deutsch (B1)
+## 📫 Cómo contactarme
+- mail: [edosan589@gmail.com](edosan589@gmail.com)
+- LinkedIn: [Edwin Iñiguez Moncada](www.linkedin.com/in/edwin-iniguez-moncada)
